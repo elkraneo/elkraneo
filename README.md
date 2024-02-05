@@ -50,8 +50,8 @@ Cristian develops accessible spatial computing apps for iOS, macOS, and visionOS
 
 ## 📫 How to reach me
 
-- Twitter: [@elkraneo](https://twitter.com/elkraneo)
-- Twitter: [@elkraneo@mastodon.social](https://mastodon.social/@elkraneo)
+- Mastodon: [@elkraneo@mastodon.social](https://mastodon.social/@elkraneo)
 - LinkedIn: [Cristian Diaz](https://www.linkedin.com/in/elkraneo/)
+- Twitter: [@elkraneo](https://twitter.com/elkraneo)
 
 Thank you for visiting my GitHub profile!
