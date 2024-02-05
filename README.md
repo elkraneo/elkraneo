@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!
 
-Cristian develops accessible spatial computing apps for iOS, macOS, and visionOS that enable users to explore, consume, and create...
+I develop accessible spatial computing apps for iOS, macOS, and visionOS
 
 <picture>
 <source 
