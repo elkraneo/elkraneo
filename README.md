@@ -19,14 +19,14 @@ I develop accessible spatial computing apps for iOS, macOS, and visionOS
 </picture>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=elkraneo&hide=html,javascript,css,scss&show_icons=true&theme=dark&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=elkraneo&show_icons=true&theme=dark&layout=compact&hide=html,javascript,css,scss"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=elkraneo&hide=html,javascript,css,scss&show_icons=true&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=elkraneo&show_icons=true&layout=compact&hide=html,javascript,css,scss"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkraneo&hide=html,javascript,css,scss&show_icons=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkraneo&show_icons=true&layout=compact&hide=html,javascript,css,scss" />
 </picture>
 
 ## 🔭 Current Work
