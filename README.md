@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![elkraneo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=elkraneo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/elkraneo/github-readme-stats#gh-dark-mode-only)
+[![elkraneo's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=elkraneo&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/elkraneo/github-readme-stats#gh-light-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elkraneo&hide=javascript,html,css,scss,perl&layout=compact#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elkraneo&hide=javascript,html,css,scss,perl&layout=compact#gh-light-mode-only)
+
 <!--
 **elkraneo/elkraneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
