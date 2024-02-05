@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Cristian
+
+## Introduction
+
+Welcome to my GitHub profile!
+
+Cristian develops accessible spatial computing apps for iOS, macOS, and visionOS that enable users to explore, consume, and create...
 
 <picture>
 <source 
@@ -23,17 +29,29 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkraneo&show_icons=true&layout=compact" />
 </picture>
 
-<!--
-**elkraneo/elkraneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Current Work
 
-Here are some ideas to get you started:
+- Building tools, training and improving Monstarlab's products.
+- At the moment, I'm making open source Swift Packages and apps that will help developers use RealityKit to make accessible spatial computing experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning
+
+- Metal, RealityKit, SwiftUI, visionOS and DocC.
+
+## 👯 Collaboration
+
+- I'm open to collaborating on any open source projects.
+
+## 💬 Ask me about
+
+- Swift development
+- Augmented Reality with ARKit and RealityKit
+- Accessible Spatial Computing
+
+## 📫 How to reach me
+
+- Twitter: [@elkraneo](https://twitter.com/elkraneo)
+- Twitter: [@elkraneo@mastodon.social](https://mastodon.social/@elkraneo)
+- LinkedIn: [Cristian Diaz](https://www.linkedin.com/in/elkraneo/)
+
+Thank you for visiting my GitHub profile!
