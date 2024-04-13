@@ -24,17 +24,17 @@ I develop accessible spatial computing apps for iOS, macOS, and visionOS
 ---
 
 <a href="https://github.com/elkraneo">
-<img src="https://img.shields.io/badge/github-%40elkraneo-211F1F?logo=github"/>
+<img src="https://img.shields.io/badge/github-%40elkraneo-211F1F?logo=github?style=social"/>
 </a>
 
 <a href="https://mastodon.social/@elkraneo">
-<img src="https://img.shields.io/badge/mastodon-%40elkraneo-6364FF?logo=mastodon"/>
+<img src="https://img.shields.io/badge/mastodon-%40elkraneo-6364FF?logo=mastodon?style=social"/>
 </a>
 
 <a href="https://www.linkedin.com/in/elkraneo">
-<img src="https://img.shields.io/badge/linkedin-%40elkraneo-0A66C2?logo=linkedin"/>
+<img src="https://img.shields.io/badge/linkedin-%40elkraneo-0A66C2?logo=linkedin?style=social"/>
 </a>
 
 <a href="https://twitter.com/elkraneo">
-<img src="https://img.shields.io/badge/twitter-%40elkraneo-1D9BF0?logo=twitter"/>
+<img src="https://img.shields.io/badge/twitter-%40elkraneo-1D9BF0?logo=twitter?style=social"/>
 </a>
