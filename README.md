@@ -29,6 +29,8 @@ I develop accessible spatial computing apps for iOS, macOS, and visionOS
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkraneo&show_icons=true&layout=compact&hide=html,javascript,css,scss" />
 </picture>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elkraneo&hide=html,javascript,css,scss)
+
 ## 🔭 Current Work
 
 - Building tools, training and improving Monstarlab's products.
