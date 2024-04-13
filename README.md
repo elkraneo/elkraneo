@@ -28,10 +28,6 @@ I develop accessible spatial computing apps for iOS, macOS, and visionOS
 - Augmented Reality with ARKit and RealityKit
 - Accessible Spatial Computing
 
-## 📫 How to reach me
+---
+![Static Badge](https://img.shields.io/badge/github-%40elkraneo-211F1F?logo=github&link=https%3A%2F%2Fgithub.com%2Felkraneo)
 
-- Mastodon: [@elkraneo@mastodon.social](https://mastodon.social/@elkraneo)
-- LinkedIn: [Cristian Diaz](https://www.linkedin.com/in/elkraneo/)
-- Twitter: [@elkraneo](https://twitter.com/elkraneo)
-
-Thank you for visiting my GitHub profile!
