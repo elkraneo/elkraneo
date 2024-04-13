@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 I develop accessible spatial computing apps for iOS, macOS, and visionOS
 
-[![Top Langs](https://github-readme-stats-rho-azure-30.vercel.app/api/top-langs/?username=elkraneo&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rho-azure-30.vercel.app/api/top-langs/?username=elkraneo&layout=pie&hide=html,javascript,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 Current Work
 
