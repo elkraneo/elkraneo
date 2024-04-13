@@ -31,3 +31,6 @@ I develop accessible spatial computing apps for iOS, macOS, and visionOS
 ---
 ![Static Badge](https://img.shields.io/badge/github-%40elkraneo-211F1F?logo=github&link=https%3A%2F%2Fgithub.com%2Felkraneo)
 
+<a href="https://github.com/elkraneo">
+<img src="https://img.shields.io/badge/github-%40elkraneo-211F1F?logo=github"/>
+</a>
