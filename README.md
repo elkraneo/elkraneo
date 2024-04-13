@@ -24,10 +24,10 @@ I develop accessible spatial computing apps for iOS, macOS, and visionOS
 
 ## 💬 Ask me about
 
-- Swift development
-- Augmented Reality with ARKit and RealityKit
 - Accessible Spatial Computing
-
+- Swift
+- ARKit, RealityKit and visionOS
+- The Composable Architecture
 ---
 
 <a href="https://github.com/elkraneo">
