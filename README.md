@@ -6,28 +6,7 @@ Welcome to my GitHub profile!
 
 I develop accessible spatial computing apps for iOS, macOS, and visionOS
 
-<picture>
-<source 
-  srcset="https://github-readme-stats-rho-azure-30.vercel.app/api?username=elkraneo&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-rho-azure-30.vercel.app/api?username=elkraneo&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-rho-azure-30.vercel.app/api/top-langs?username=elkraneo&hide=html,javascript,css,scss&show_icons=true" />
-</picture>
-<picture>
-<source 
-  srcset="https://github-readme-stats-rho-azure-30.vercel.app/api/top-langs?username=elkraneo&show_icons=true&theme=dark&layout=compact&hide=html,javascript,css,scss"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-rho-azure-30.vercel.app/api/top-langs?username=elkraneo&show_icons=true&layout=compact&hide=html,javascript,css,scss"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-rho-azure-30.vercel.app/api/top-langs?username=elkraneo&show_icons=true&layout=compact&hide=html,javascript,css,scss" />
-</picture>
+[![Top Langs](https://github-readme-stats-rho-azure-30.vercel.app/api/top-langs/?username=elkraneo&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 Current Work
 
