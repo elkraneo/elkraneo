@@ -29,8 +29,19 @@ I develop accessible spatial computing apps for iOS, macOS, and visionOS
 - Accessible Spatial Computing
 
 ---
-![Static Badge](https://img.shields.io/badge/github-%40elkraneo-211F1F?logo=github&link=https%3A%2F%2Fgithub.com%2Felkraneo)
 
 <a href="https://github.com/elkraneo">
 <img src="https://img.shields.io/badge/github-%40elkraneo-211F1F?logo=github"/>
+</a>
+
+<a href="https://mastodon.social/@elkraneo">
+<img src="https://img.shields.io/badge/mastodon-%40elkraneo-6364FF?logo=mastodon"/>
+</a>
+
+<a href="https://www.linkedin.com/in/elkraneo">
+<img src="https://img.shields.io/badge/linkedin-%40elkraneo-0A66C2?logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/elkraneo">
+<img src="https://img.shields.io/badge/twitter-%40elkraneo-1D9BF0?logo=twitter"/>
 </a>
