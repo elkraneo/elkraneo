@@ -1,9 +1,6 @@
 # Hi, I'm Cristian
 
 ## Introduction
-
-Welcome to my GitHub profile!
-
 I develop accessible spatial computing apps for iOS, macOS, and visionOS
 
 [![Stats](https://github-readme-stats-rho-azure-30.vercel.app/api?username=elkraneo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
