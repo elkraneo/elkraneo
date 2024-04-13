@@ -16,11 +16,7 @@ I develop accessible spatial computing apps for iOS, macOS, and visionOS
 
 ## 🌱 Learning
 
-- Metal, RealityKit, SwiftUI, visionOS and DocC.
-
-## 👯 Collaboration
-
-- I'm open to collaborating on any open source projects.
+- Metal, RealityKit, SwiftUI, visionOS and DocC
 
 ## 💬 Ask me about
 
