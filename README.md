@@ -1,24 +1,25 @@
-# Hi, I'm Cristian
+# Oye, I'm Cristian
 
 ## Introduction
-I develop accessible spatial computing apps for iOS, macOS, and visionOS
+I develop accessible apps for iOS, macOS, and visionOS
 
 [![Stats](https://github-readme-stats-rho-azure-30.vercel.app/api?username=elkraneo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-rho-azure-30.vercel.app/api/top-langs/?username=elkraneo&layout=pie&hide=html,javascript,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 Current Work
 
-- Building tools, training and improving Monstarlab's products.
-- At the moment, I'm making open source Swift Packages and apps that will help developers use RealityKit to make accessible spatial computing experiences.
+- Building tools, training and innocating at Monstarlab
+- Sharing what I've learned while specializing in accessible spatial computing
 
 ## 🌱 Learning
 
-- Metal, RealityKit, SwiftUI, visionOS and DocC
+- Metal, RealityKit, SwiftUI, visionOS, PHASE and DocC
 
 ## 💬 Ask me about
 
-- Accessible Spatial Computing
-- Swift
+- Accessibility
+- Spatial Computing
+- Swift/SwiftUI
 - ARKit, RealityKit and visionOS
 - The Composable Architecture
 ---
