@@ -1,12 +1,12 @@
 # Oye, I'm Cristian
 
-## Introduction
+## Intro
 I develop accessible apps for iOS, macOS, and visionOS
 
 [![Stats](https://github-readme-stats-rho-azure-30.vercel.app/api?username=elkraneo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-rho-azure-30.vercel.app/api/top-langs/?username=elkraneo&layout=pie&hide=html,javascript,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔭 Current Work
+## 🛠️ Current Work
 
 - Building tools, training and innocating at Monstarlab
 - Sharing what I've learned while specializing in accessible spatial computing
