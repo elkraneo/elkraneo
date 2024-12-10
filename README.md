@@ -10,14 +10,14 @@ I develop accessible apps for iOS, macOS, and visionOS
 
 ## 🌱 Learning
 
-- Metal, RealityKit, SwiftUI, visionOS, PHASE and DocC
+- Metal, RealityKit, visionOS, PHASE and Blender
 
 ## 💬 Ask me about
 
 - Accessibility
 - Spatial Computing
 - Swift/SwiftUI
-- ARKit, RealityKit and visionOS
+- ARKit, RealityKit, TabletopKit and visionOS in general
 - The Composable Architecture
 ---
 [![Stats](https://github-readme-stats-rho-azure-30.vercel.app/api?username=elkraneo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
