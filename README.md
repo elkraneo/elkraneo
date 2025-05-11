@@ -1,16 +1,16 @@
 # Oye, I'm Cristian
 
 ## Intro
-I develop accessible apps for iOS, macOS, and visionOS
+visionOS developer
 
 ## 🛠️ Current Work
 
-- Building tools, training and innocating at Monstarlab
+- Making [The Green Spurt](https://reality2713.com/thegreenspurt)
 - Sharing what I've learned while specializing in accessible spatial computing
 
 ## 🌱 Learning
 
-- Metal, RealityKit, visionOS, PHASE and Blender
+- Metal, RealityKit, visionOS, PHASE and Houdini
 
 ## 💬 Ask me about
 
