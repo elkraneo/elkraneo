@@ -1,40 +1,52 @@
 # Oye, I'm Cristian
 
-## Intro
-visionOS developer
+visionOS developer — reverse-engineering spatial computing tools and building the ones that don't exist.
 
 ## 🛠️ Current Work
 
-- Making [The Green Spurt](https://reality2713.com/thegreenspurt)
-- Sharing what I've learned while specializing in accessible spatial computing
+- **[Deconstructed](https://github.com/elkraneo/Deconstructed)** — open-source Reality Composer Pro clone. Reverse-engineers RCP on macOS 26, opens `.realitycomposerpro` packages, parses USD structure, enables scene editing. Built with SwiftUI + TCA
+- **[Deconstructing Reality Composer Pro](https://elkraneo.com/deconstructing-reality-composer-pro-intro/)** — 7-part blog series documenting the reverse-engineering process, from document types to viewports to inspector components
+- **[Preflight](https://preflight.reality2713.com)** — USD/USDZ inspection and health-check tool for spatial computing pipelines
+- **[USDInterop](https://github.com/Reality2713/USDInterop)** — two-tier Swift package for USD file manipulation via [@Reality2713](https://github.com/Reality2713)
 
-## 🌱 Learning
+## 🔧 Tools & Libraries
 
-- Metal, RealityKit, visionOS, PHASE and Houdini
+| Repo | Description |
+|------|-------------|
+| [uncannyuse](https://github.com/elkraneo/uncannyuse) | "Can I use?" compatibility reference for RealityKit, ARKit, Metal & hardware-gated features |
+| [zed-usd](https://github.com/elkraneo/zed-usd) | USD/USDA syntax highlighting for the Zed editor |
+| [RCPComponentDiffFixtures](https://github.com/elkraneo/RCPComponentDiffFixtures) | Fixture corpus for diff-based reverse engineering of RCP inspector components in USDA |
+| [swift-acp](https://github.com/Reality2713/swift-acp) | Agent Communication Protocol SDK for Swift |
+| [Accessibility-SSML-Label](https://github.com/elkraneo/Accessibility-SSML-Label) | `.accessibilityLabel` overload for SSML in SwiftUI |
+
+## ✍️ Writing
+
+I write about spatial computing, OpenUSD, and accessibility at **[elkraneo.com](https://elkraneo.com)**
+
+Recent:
+- [Deconstructing RCP: Inspector Components](https://elkraneo.com/deconstructing-reality-composer-pro-inspector-components/)
+- [Compiling .reality: The Technical Reality](https://elkraneo.com/compiling-reality-the-technical-reality/)
+- [Developers should not have access to eye tracking](https://elkraneo.com/developers-should-not-have-access-to-eye-tracking-information/)
+- [Guide to Spatial Computing — WWDC25](https://elkraneo.com/wwdc25-guide-to-the-latest-in-spatial-computing/)
 
 ## 💬 Ask me about
 
-- Accessibility
-- Spatial Computing
-- Swift/SwiftUI
-- ARKit, RealityKit, TabletopKit and visionOS in general
-- The Composable Architecture
----
-[![Stats](https://github-readme-stats-rho-azure-30.vercel.app/api?username=elkraneo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-rho-azure-30.vercel.app/api/top-langs/?username=elkraneo&layout=pie&hide=html,javascript,css,scss)](https://github.com/anuraghazra/github-readme-stats)
+Accessibility · OpenUSD · RealityKit · visionOS · Swift/SwiftUI · The Composable Architecture
 
-<a href="https://github.com/elkraneo">
-<img src="https://img.shields.io/badge/github-%40elkraneo-211F1F?style=social&logo=github"/>
+---
+
+<a href="https://elkraneo.com">
+<img src="https://img.shields.io/badge/blog-elkraneo.com-0000ff?style=flat"/>
 </a>
 
 <a href="https://mastodon.social/@elkraneo">
-<img src="https://img.shields.io/badge/mastodon-%40elkraneo-6364FF?style=plastic&logo=mastodon"/>
+<img src="https://img.shields.io/badge/mastodon-@elkraneo-6364FF?style=flat&logo=mastodon&logoColor=white"/>
+</a>
+
+<a href="https://bsky.app/profile/elkraneo.com">
+<img src="https://img.shields.io/badge/bluesky-@elkraneo-0085ff?style=flat&logo=bluesky&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/elkraneo">
-<img src="https://img.shields.io/badge/linkedin-%40elkraneo-0A66C2?style=plastic&logo=linkedin"/>
-</a>
-
-<a href="https://twitter.com/elkraneo">
-<img src="https://img.shields.io/badge/twitter-%40elkraneo-1D9BF0?style=plastic&logo=twitter"/>
+<img src="https://img.shields.io/badge/linkedin-elkraneo-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
