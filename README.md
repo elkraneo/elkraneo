@@ -4,8 +4,7 @@ visionOS developer — reverse-engineering spatial computing tools and building 
 
 ## 🛠️ Current Work
 
-- **[Deconstructed](https://github.com/elkraneo/Deconstructed)** — open-source Reality Composer Pro clone. Reverse-engineers RCP on macOS 26, opens `.realitycomposerpro` packages, parses USD structure, enables scene editing. Built with SwiftUI + TCA
-- **[Deconstructing Reality Composer Pro](https://elkraneo.com/deconstructing-reality-composer-pro-intro/)** — 7-part blog series documenting the reverse-engineering process, from document types to viewports to inspector components
+- **[Deconstructed](https://github.com/elkraneo/Deconstructed)** — open-source Reality Composer Pro clone built with SwiftUI + TCA, documented in a [7-part blog series](https://elkraneo.com/deconstructing-reality-composer-pro-intro/) reverse-engineering RCP from document types to viewports to inspector components
 - **[The Green Spurt](https://reality2713.com/thegreenspurt)** — spatial computing experience
 - **[Preflight](https://preflight.reality2713.com)** — USD/USDZ inspection and health-check tool for spatial computing pipelines
 - **[USDInterop](https://github.com/Reality2713/USDInterop)** — two-tier Swift package for USD file manipulation via [@Reality2713](https://github.com/Reality2713)
