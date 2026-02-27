@@ -17,6 +17,7 @@ visionOS developer — reverse-engineering spatial computing tools and building 
 | [zed-usd](https://github.com/elkraneo/zed-usd) | USD/USDA syntax highlighting for the Zed editor |
 | [RCPComponentDiffFixtures](https://github.com/elkraneo/RCPComponentDiffFixtures) | Fixture corpus for diff-based reverse engineering of RCP inspector components in USDA |
 | [swift-acp](https://github.com/Reality2713/swift-acp) | Agent Communication Protocol SDK for Swift |
+| [Step Into Vision MCP](https://github.com/StepIntoVision/stepintovision.ai) | Model Context Protocol server and ingestion toolkit for Step Into Vision |
 | [Accessibility-SSML-Label](https://github.com/elkraneo/Accessibility-SSML-Label) | `.accessibilityLabel` overload for SSML in SwiftUI |
 
 ## ✍️ Writing
