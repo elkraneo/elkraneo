@@ -20,6 +20,7 @@ visionOS developer — reverse-engineering spatial computing tools and building 
 | [Step Into Vision MCP](https://github.com/StepIntoVision/stepintovision.ai) | Model Context Protocol server and ingestion toolkit for Step Into Vision |
 | [Accessibility-SSML-Label](https://github.com/elkraneo/Accessibility-SSML-Label) | `.accessibilityLabel` overload for SSML in SwiftUI |
 | [StageView](https://github.com/Reality2713/StageView) | RealityKit Viewport |
+| [Smith Tools](https://github.com/Smith-Tools) | The Agentic Architecture Platform for Swift Development |
 
 ## ✍️ Writing
 
