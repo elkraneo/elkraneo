@@ -4,7 +4,7 @@ visionOS developer — reverse-engineering spatial computing tools and building 
 
 ## 🛠️ Current Work
 
-- **[Deconstructed](https://github.com/elkraneo/Deconstructed)** — open-source Reality Composer Pro clone built with SwiftUI + TCA, documented in a [7-part blog series](https://elkraneo.com/deconstructing-reality-composer-pro-intro/) reverse-engineering RCP from document types to viewports to inspector components
+- **[Deconstructed](https://github.com/elkraneo/Deconstructed)** — open-source Reality Composer Pro clone built with SwiftUI + TCA, documented in a [9-part blog series](https://elkraneo.com/deconstructing-reality-composer-pro-intro/) reverse-engineering RCP from document types to viewports to inspector components
 - **[The Green Spurt](https://reality2713.com/thegreenspurt)** — spatial computing experience
 - **[Preflight](https://preflight.reality2713.com)** — OpenUSD debug tool for spatial computing pipelines with agentic capabilities
 - **[Gantry](https://gantry.reality2713.com)** — Professional OpenUSD Scene Converter
