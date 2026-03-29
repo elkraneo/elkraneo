@@ -8,12 +8,12 @@ visionOS developer — reverse-engineering spatial computing tools and building 
 - **[The Green Spurt](https://reality2713.com/thegreenspurt)** — spatial computing experience
 - **[Preflight](https://preflight.reality2713.com)** — OpenUSD debug tool for spatial computing pipelines with agentic capabilities
 - **[Gantry](https://gantry.reality2713.com)** — Professional OpenUSD Scene Converter
+- **[uncannyuse](https://github.com/elkraneo/uncannyuse)** — "Can I use?" compatibility reference for RealityKit, ARKit, Metal & hardware-gated features
 
 ## 🔧 Tools & Libraries
 
 | Repo | Description |
 |------|-------------|
-| [uncannyuse](https://github.com/elkraneo/uncannyuse) | "Can I use?" compatibility reference for RealityKit, ARKit, Metal & hardware-gated features |
 | [zed-usd](https://github.com/elkraneo/zed-usd) | USD/USDA syntax highlighting for the Zed editor |
 | [RCPComponentDiffFixtures](https://github.com/elkraneo/RCPComponentDiffFixtures) | Fixture corpus for diff-based reverse engineering of RCP inspector components in USDA |
 | [swift-acp](https://github.com/Reality2713/swift-acp) | Agent Communication Protocol SDK for Swift |
