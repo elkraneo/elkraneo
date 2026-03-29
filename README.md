@@ -1,6 +1,6 @@
 # Oye, I'm Cristian
 
-visionOS developer — reverse-engineering spatial computing tools and building the ones that don't exist.
+On a mission to make immersive technology work for everyone.
 
 ## 🛠️ Current Work
 
@@ -34,7 +34,7 @@ Recent:
 
 ## 💬 Ask me about
 
-Accessibility · OpenUSD · RealityKit · visionOS · Swift/SwiftUI · The Composable Architecture
+OpenUSD · RealityKit · visionOS · Swift/SwiftUI · Accessibility · The Composable Architecture
 
 ---
 
