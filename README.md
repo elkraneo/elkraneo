@@ -21,6 +21,7 @@ On a mission to make immersive technology work for everyone.
 | [Accessibility-SSML-Label](https://github.com/elkraneo/Accessibility-SSML-Label) | `.accessibilityLabel` overload for SSML in SwiftUI |
 | [StageView](https://github.com/Reality2713/StageView) | RealityKit Viewport |
 | [Smith Tools](https://github.com/Smith-Tools) | The Agentic Architecture Platform for Swift Development |
+| [Icarus](https://github.com/elkraneo/icarus) | Light skin and configurator for Hermes agent |
 
 ## ✍️ Writing
 
