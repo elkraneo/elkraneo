@@ -8,9 +8,10 @@ On a mission to make immersive technology work for everyone.
 - **[Deconstructed3](https://github.com/elkraneo/Deconstructed3)** — natural succesor of Deconstructed based on the next major release of RCP3
 - **[The Green Spurt](https://reality2713.com/thegreenspurt)** — spatial computing experience
 - **[Preflight](https://preflight.reality2713.com)** — OpenUSD debug tool for spatial computing pipelines with agentic capabilities
-- **Preflight27** — WIP
+- **Preflight27** — WIP Next generation Scene Debugger
 - **[Gantry](https://gantry.reality2713.com)** — Professional OpenUSD Scene Converter
-- **Gantry27** — WIP
+- **Gantry27** — (WIP) Next generation Scene Converter
+- **Hull27** — (WIP) Scene Compressor
 - **[Dunfey Hotel](https://dunfeyhotel.com)** — "WWDC as! Data" get a different viewpoint on the contents of WWDC
 - **[uncannyuse](https://github.com/elkraneo/uncannyuse)** — "Can I use?" compatibility reference for RealityKit, ARKit, Metal & hardware-gated features
 
