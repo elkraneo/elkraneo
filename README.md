@@ -5,13 +5,13 @@ On a mission to make immersive technology work for everyone.
 ## 🛠️ Current Work
 
 - **[Deconstructed](https://github.com/elkraneo/Deconstructed)** — open-source Reality Composer Pro clone built with SwiftUI + TCA, documented in a [9-part blog series](https://elkraneo.com/deconstructing-reality-composer-pro-intro/) reverse-engineering RCP from document types to viewports to inspector components
-- **[Deconstructed3](https://github.com/elkraneo/Deconstructed3)** — natural succesor of Deconstructed based on the next major release of RCP3
+- **[Deconstructed3](https://github.com/elkraneo/Deconstructed3)** — natural successor of Deconstructed based on the next major release of RCP3
 - **[The Green Spurt](https://reality2713.com/thegreenspurt)** — spatial computing experience
 - **[Preflight](https://preflight.reality2713.com)** — OpenUSD debug tool for spatial computing pipelines with agentic capabilities
-- **Preflight27** — WIP Next generation Scene Debugger
+- **Preflight27** — (WIP) Next generation Scene Debugger
 - **[Gantry](https://gantry.reality2713.com)** — Professional OpenUSD Scene Converter
-- **Gantry27** — (WIP) Next generation Scene Converter
-- **Hull27** — (WIP) Scene Compressor
+- **Gantry27** — Next generation Scene Converter ([public beta](https://testflight.apple.com/join/1MXM41Wm))
+- **Hull27** — Scene Compressor ([public beta](https://testflight.apple.com/join/2ea9SMw2))
 - **[Dunfey Hotel](https://dunfeyhotel.com)** — "WWDC as! Data" get a different viewpoint on the contents of WWDC
 - **[uncannyuse](https://github.com/elkraneo/uncannyuse)** — "Can I use?" compatibility reference for RealityKit, ARKit, Metal & hardware-gated features
 
@@ -19,6 +19,8 @@ On a mission to make immersive technology work for everyone.
 
 | Repo | Description |
 |------|-------------|
+| [lygia-metal-viewer](https://github.com/elkraneo/lygia-metal-viewer) | SwiftUI viewer for the Metal port of the LYGIA shader library: 40 live demos, playground and upstream compare (macOS, iOS, visionOS) |
+| [PostProcessOutline](https://github.com/elkraneo/PostProcessOutline) | RealityKit selection outline done with post-process effects ([write-up](https://elkraneo.com/realitykit-outline-selection/)) |
 | [zed-usd](https://github.com/elkraneo/zed-usd) | USD/USDA syntax highlighting for the Zed editor |
 | [RCPComponentDiffFixtures](https://github.com/elkraneo/RCPComponentDiffFixtures) | Fixture corpus for diff-based reverse engineering of RCP inspector components in USDA |
 | [swift-acp](https://github.com/Reality2713/swift-acp) | Agent Communication Protocol SDK for Swift |
@@ -30,9 +32,10 @@ On a mission to make immersive technology work for everyone.
 
 ## ✍️ Writing
 
-I write about spatial computing, OpenUSD, and accessibility at **[elkraneo.com](https://elkraneo.com)**
+I write about spatial computing, OpenUSD, shaders and accessibility at **[elkraneo.com](https://elkraneo.com)** · all apps: **[elkraneo.com/apps](https://elkraneo.com/apps/)**
 
 Recent:
+- [RealityKit Outline Selection](https://elkraneo.com/realitykit-outline-selection/)
 - [Deconstructing RCP: Inspector Components](https://elkraneo.com/deconstructing-reality-composer-pro-inspector-components/)
 - [Compiling .reality: The Technical Reality](https://elkraneo.com/compiling-reality-the-technical-reality/)
 - [Developers should not have access to eye tracking](https://elkraneo.com/developers-should-not-have-access-to-eye-tracking-information/)
