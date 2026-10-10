@@ -1,6 +1,6 @@
 # Oye, I'm Cristian
 
-On a mission to make immersive technology work for everyone.
+Spatial computing, shaders and OpenUSD on Apple platforms, built to work for everyone.
 
 ## 🛠️ Current Work
 
